@@ -22,7 +22,7 @@
 # OTHER DEALINGS IN THE SOFTWARE.
 #
 
-FROM artifactory.algol60.net/csm-docker/stable/docker.io/library/golang:1.17.3-alpine3.13
+FROM artifactory.algol60.net/csm-docker/stable/docker.io/library/golang:1.17.3-alpine3.15
 
 ARG VERSION=v0.2.0
 
