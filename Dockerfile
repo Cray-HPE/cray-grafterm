@@ -46,4 +46,4 @@ RUN chmod u+s /bin/ping
 
 USER 65534:65534
 
-CMD [ "ping", "cray-sysmgmt-health-promet-prometheus" ]
+CMD [ "ping", "cray-sysmgmt-health-kube-p-prometheus" ]
